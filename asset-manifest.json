@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/volumetron/static/css/main.5f361e03.chunk.css",
+    "main.js": "/volumetron/static/js/main.dc1c660d.chunk.js",
+    "main.js.map": "/volumetron/static/js/main.dc1c660d.chunk.js.map",
+    "runtime-main.js": "/volumetron/static/js/runtime-main.1058e613.js",
+    "runtime-main.js.map": "/volumetron/static/js/runtime-main.1058e613.js.map",
+    "static/js/2.ea021b90.chunk.js": "/volumetron/static/js/2.ea021b90.chunk.js",
+    "static/js/2.ea021b90.chunk.js.map": "/volumetron/static/js/2.ea021b90.chunk.js.map",
+    "index.html": "/volumetron/index.html",
+    "precache-manifest.3a39550077e1e2960f605067d489c969.js": "/volumetron/precache-manifest.3a39550077e1e2960f605067d489c969.js",
+    "service-worker.js": "/volumetron/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/volumetron/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.ea021b90.chunk.js.LICENSE.txt": "/volumetron/static/js/2.ea021b90.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/volumetron/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1058e613.js",
+    "static/js/2.ea021b90.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.dc1c660d.chunk.js"
+  ]
+}
