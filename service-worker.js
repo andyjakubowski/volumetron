@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/volumetron/precache-manifest.3a39550077e1e2960f605067d489c969.js"
+  "/volumetron/precache-manifest.f6e3902d8e971f2c6fa41102eb8b21f8.js"
 );
 
 self.addEventListener('message', (event) => {
